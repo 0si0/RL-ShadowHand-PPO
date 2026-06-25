@@ -80,3 +80,4 @@ data/objects
 *.pdf
 *.pptx
 *.md
+!README.md
